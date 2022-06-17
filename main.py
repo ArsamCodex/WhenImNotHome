@@ -13,7 +13,7 @@ def send_Email(message):
 
     email_sender = 'arsamdev7@gmail.com'
     email_password = 'Put_your_own_app_Geberated_password_not_gmail_mail_password'
-    email_receiver = 'arminttwat@gmail.com'
+    email_receiver = 'arminttwat@gmail'
 
     subject = 'Test v1.0 Send JPG Files ( emaile automated by python !'
     body = """
