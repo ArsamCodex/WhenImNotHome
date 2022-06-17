@@ -1,7 +1,7 @@
 import pynput
 from pynput.keyboard import Key, Listener
 
-#Author ~Armin~ My Programming Name ~SaMi~
+#Author ~Armin~ 
 count = 0
 keys = []
 
